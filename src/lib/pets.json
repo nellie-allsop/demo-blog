@@ -1,0 +1,180 @@
+[
+  {
+      "name": "Whisker",
+      "species": "Cat",
+      "breed": "Siamese",
+      "age": 3,
+      "color": "Brown and White",
+      "fun_fact": "Can sing along to opera.",
+      "image": "https://images.unsplash.com/photo-1562256500-5d49a9903824?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+      "name": "Barkley",
+      "species": "Dog",
+      "breed": "Golden Retriever",
+      "age": 5,
+      "color": "Golden",
+      "fun_fact": "Thinks he's a lap dog.",
+      "image": "https://images.unsplash.com/photo-1581285217236-a2355291f9c9?q=80&w=2815&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      
+  },
+  {
+      "name": "Ziggy",
+      "species": "Lizard",
+      "breed": "Bearded Dragon",
+      "age": 2,
+      "color": "Brown",
+      "fun_fact": "Obsessed with reality TV shows.",
+      "image": "https://images.unsplash.com/photo-1612049094164-9f016e7a449d?q=80&w=2516&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+      "name": "Mr. Fluffles",
+      "species": "Rabbit",
+      "breed": "Angora",
+      "age": 1,
+      "color": "White",
+      "fun_fact": "Has a personal stylist.",
+      "image": ""
+  },
+  {
+      "name": "Puff",
+      "species": "Dragon",
+      "breed": "Mythical",
+      "age": 150,
+      "color": "Green",
+      "fun_fact": "Vegetarian and loves cooking shows.",
+      "image": ""
+  },
+  {
+      "name": "Sparky",
+      "species": "Robot",
+      "breed": "Assassin Model",
+      "age": 20,
+      "color": "Silver",
+      "fun_fact": "Retired and enjoys knitting."
+  },
+  {
+      "name": "Glimmer",
+      "species": "Unicorn",
+      "breed": "Enchanted",
+      "age": 7,
+      "color": "Rainbow",
+      "fun_fact": "Has a PhD in Physics.",
+      "image": ""
+  },
+  {
+      "name": "Fang",
+      "species": "Snake",
+      "breed": "Python",
+      "age": 4,
+      "color": "Green",
+      "fun_fact": "Loves to cuddle.",
+      "image": "https://images.unsplash.com/photo-1555455955-c2e1feb6f81c?q=80&w=2785&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+      "name": "Bubbles",
+      "species": "Fish",
+      "breed": "Goldfish",
+      "age": 1,
+      "color": "Gold",
+      "fun_fact": "Can solve puzzles."
+  },
+  {
+      "name": "Hedgy",
+      "species": "Hedgehog",
+      "breed": "African Pygmy",
+      "age": 3,
+      "color": "Brown",
+      "fun_fact": "Aspiring Instagram influencer.",
+      "image": ""
+  },
+  {
+      "name": "Nibbles",
+      "species": "Hamster",
+      "breed": "Syrian",
+      "age": 0.5,
+      "color": "Golden",
+      "fun_fact": "Training for a hamster marathon.",
+      "image": "https://images.unsplash.com/photo-1675069479383-93b0917e2e00?q=80&w=2617&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+      "name": "Echo",
+      "species": "Parrot",
+      "breed": "Macaw",
+      "age": 10,
+      "color": "Blue and Yellow",
+      "fun_fact": "Can imitate any ringtone.",
+      "image": ""
+  },
+  {
+      "name": "Sneaky",
+      "species": "Cat",
+      "breed": "Bengal",
+      "age": 4,
+      "color": "Spotted",
+      "fun_fact": "Expert in hide and seek."
+  },
+  {
+      "name": "Boomer",
+      "species": "Kangaroo",
+      "breed": "Red Kangaroo",
+      "age": 6,
+      "color": "Red",
+      "fun_fact": "Enjoys boxing workouts.",
+      "image": ""
+  },
+  {
+      "name": "Chomp",
+      "species": "Alligator",
+      "breed": "American",
+      "age": 8,
+      "color": "Green",
+      "fun_fact": "Loves bubble baths.",
+      "image": ""
+  },
+  {
+      "name": "Twilight",
+      "species": "Bat",
+      "breed": "Fruit Bat",
+      "age": 2,
+      "color": "Black",
+      "fun_fact": "Aspires to be a detective.",
+      "image": ""
+  },
+  {
+      "name": "Dusty",
+      "species": "Horse",
+      "breed": "Mustang",
+      "age": 7,
+      "color": "Brown",
+      "fun_fact": "Part-time DJ.",
+      "image": ""
+  },
+  {
+      "name": "Pepper",
+      "species": "Dog",
+      "breed": "Dalmatian",
+      "age": 4,
+      "color": "White with Black Spots",
+      "fun_fact": "Has a coffee addiction.",
+      "image": ""
+  },
+  {
+      "name": "Spike",
+      "species": "Porcupine",
+      "breed": "North American",
+      "age": 5,
+      "color": "Brown",
+      "fun_fact": "Enjoys acupuncture.",
+      "image": ""
+  },
+  {
+      "name": "Gizmo",
+      "species": "Gremlin",
+      "breed": "Mogwai",
+      "age": 3,
+      "color": "Brown",
+      "fun_fact": "Never feed after midnight.",
+      "image": ""
+  }
+]
