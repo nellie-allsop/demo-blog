@@ -50,7 +50,7 @@ sortedPets.sort(comparePets)
 			{sortedPets.map((pet, index) => {
 				return (
           <div key={index}>
-          <Link href={`/pets/${pet.name}`}>{pet.name}</Link>;
+          <Link href={`/pets/${pet.slug}`}>{pet.name}</Link>;
           </div>
         )
 

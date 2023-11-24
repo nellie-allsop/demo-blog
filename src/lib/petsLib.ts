@@ -8,7 +8,7 @@ export type typePets = {
 	breed: string;
 	age: number;
 	color: string;
-	// slug: string,
+	slug: string,
 	fun_fact: string;
 	image?: string;
 };
@@ -17,3 +17,10 @@ export type typePets = {
 export function getPets(): typePets[] {
 	return PETS;
 }
+
+export function findPetBySlug(slug: string){
+	return PETS.find(pet => pet.slug === slug)
+}
+//map or filter?
+//accepts a slug as an argument
+//check if slug matches one of the slugs in the PETS array
